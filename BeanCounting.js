@@ -19,4 +19,4 @@ function countChar(str, char){
 	}
 	return count;
 }
-console.log(countChar("Shiriesha", 'e'))
+console.log(countChar("Shireesha", 'e'))
