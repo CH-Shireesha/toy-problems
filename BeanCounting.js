@@ -20,4 +20,3 @@ function countChar(str, char){
 	return count;
 }
 console.log(countChar("Shireesha", 'e'))
-console.log(countChar("hello", 'L'))
